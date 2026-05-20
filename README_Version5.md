@@ -76,4 +76,4 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=gbQ_KFUAAA
 
 ---
 
-[View Full Research Portfolio](https://github.com/optical-networks-portfolio)
+[View Full Research Portfolio](https://github.com/dassd-adapt/optical-networks-portfolio)
